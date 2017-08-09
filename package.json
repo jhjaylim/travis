@@ -1,8 +1,8 @@
 {
   "name": "multiplyBy2",
   "main": "multiplyBy2.js",
-  "scrips": {
-    "test" : "mocha ./test --recursive"
+  "scripts": {
+    "test" : "mocha"
   },
   "devDependencies": {
     "chai": "^4.1.1",
