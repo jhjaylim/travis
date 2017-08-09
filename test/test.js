@@ -5,7 +5,7 @@ describe('mutiply2 ', function() {
 
   it('should mutiply2', function() {
   	
-  	expect(multiply2(2)).to.equal(4);
+  	expect(multiply2(6)).to.equal(4);
   });
 });
 
